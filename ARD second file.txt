@@ -1,1 +1,2 @@
 Test second file
+Additional line in second file
