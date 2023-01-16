@@ -1,2 +1,4 @@
 Test second file
 Additional line in second file
+Making change in two files and checking git commit command 
+Here - 2
